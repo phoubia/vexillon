@@ -16,5 +16,3 @@
 <a href="https://github.com/phoubia/vexillon/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=phoubia/vexillon" />
 </a>
-
-- **phobia** - _Initial work_ - [Phobia](https://github.com/phoubia)
