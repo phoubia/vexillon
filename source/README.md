@@ -1,0 +1,1 @@
+Download and modify the files in this folder and paste them in your Vexillon directory. You are not allowed to sell it or anything, to share it with other Vexillon users share it in our Discord Server
