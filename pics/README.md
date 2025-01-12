@@ -1,1 +1,1 @@
-
+Pictures with a copyright icon are owned by Vexillon, all rights reserved. Screenshots are free to use as they are not made by us, but by members of the community. What is shown in the screenshots is simply for example purposes in this repository's README files. If any content shown violates the terms of service, it is not our responsibility. We strive to provide the best images related to the topic.
