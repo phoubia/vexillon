@@ -6,3 +6,7 @@
   <img src="https://img.shields.io/badge/version-2.1.1-green">
   <img src="https://img.shields.io/badge/language-python-blue">
 </p>
+
+# Liscense
+
+```By using or downloading [Program Name], you agree to the following terms: The Software is available solely through the official [Your Discord Server Name] Discord server. You may not sell, redistribute, or share the Software outside the server. Users can only modify and share parts of the Software ("Vexillon") that are provided to you from this repository. Any abuse of these terms will result in a permanent ban from downloading or accessing the Software through the server. The Software is provided "as-is," with no warranty of any kind.```
