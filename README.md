@@ -7,6 +7,11 @@
   <img src="https://img.shields.io/badge/language-python-blue">
 </p>
 
+### About
+About Vexillon
+Vexillon is a FastFlag editor for roblox that simplifies the normal bootstrapping method for people looking to submit their FastFlag lists fast without having to make whole files and folders. 
+
+Vexillon has alot of features surrounding FastFlags to suit the users expectations as every feature come from user requests which you can submit yourself in the Discord server.
 ### Liscense
 
 ```
