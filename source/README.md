@@ -1,9 +1,9 @@
 # Contribute by making a stylesheet
 
 <p align="center">
-<img src="https://img.shields.io/badge/liscense-custom-orange">
-  <img src="https://img.shields.io/badge/version-2.1.1-green">
-  <img src="https://img.shields.io/badge/language-python-blue">
+<img src="https://img.shields.io/badge/liscense-MIT-orange">
+  <img src="https://img.shields.io/badge/stylesheet_version-2.1.1-green">
+  <img src="https://img.shields.io/badge/language-qss-blue">
 </p>
 
 Download and modify the files in this folder and paste them in your Vexillon directory. You are not allowed to sell it or anything, to share it with other Vexillon users share it in our Discord Server. We all know how our ui doesn't look very great. Doing this helps alot of people out
