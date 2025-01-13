@@ -28,6 +28,10 @@ Any abuse of these terms will result in a permanent ban from downloading or acce
 The Software is provided "as-is," with no warranty of any kind.
 ```
 
+### Frequently Asked Questions
+
+<h3 align="left">Installation</h3><h3 align="right">Requirements</h3>
+
 ### Authors
 
 <a href="https://github.com/phoubia/vexillon/graphs/contributors">
