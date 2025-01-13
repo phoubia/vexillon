@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/language-qss-blue">
 </p>
 
-Download and modify the stylesheet file, click on this link to know how to work with qss which is very similar as css. Put the stylesheet file in the same directory as the vexillon.exe executable.
+Download and modify the stylesheet file, click on this link to know how to work with qss which is very similar as css. Put the stylesheet file in the same directory as the vexillon.exe executable. Follow the rules in the liscense below.
 
 > [!NOTE]
 > The liscense below is only for the file included in this folder being the stylesheet.
