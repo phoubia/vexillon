@@ -30,7 +30,7 @@ The Software is provided "as-is," with no warranty of any kind.
 
 ### Frequently Asked Questions
 
-<h3 align="left">Installation</h3><h3 align="right">Requirements</h3>
+<h2 align="left">Installation</h2><h2 align="right">Requirements</h2>
 
 ### Authors
 
