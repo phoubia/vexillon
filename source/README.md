@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/language-qss-blue">
 </p>
 
-Download and modify the files in this folder and paste them in your Vexillon directory. You are not allowed to sell it or anything, to share it with other Vexillon users share it in our Discord Server. We all know how our ui doesn't look very great. Doing this helps alot of people out
+Download and modify the stylesheet file, click on this link to know how to work with qss which is very similar as css. Put the stylesheet file in the same directory as the vexillon.exe executable.
 
 > [!NOTE]
 > The liscense below is only for the file included in this folder being the stylesheet.
