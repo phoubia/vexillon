@@ -12,6 +12,7 @@ Vexillon is a FastFlag editor designed specifically for Roblox, helping users cu
 > [!NOTE]
 > Vexillon was made for good use and educational purposes only as we strictly follow the Roblox, Github and Discord guidelines and prohibit miss using Vexillons features. People misusing Vexillon
 > will risk a ban in their favorite games and are not responsible for this.
+
 > [!CAUTION]
 > It is important to note that misuse of Vexillon’s features can put your account at risk, and we strongly discourage any
 > abuse, as it violates Roblox, Discord, and GitHub guidelines.
