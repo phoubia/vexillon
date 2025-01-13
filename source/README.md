@@ -1,6 +1,6 @@
 # Contribute by making a stylesheet
 
-Download and modify the files in this folder and paste them in your Vexillon directory. You are not allowed to sell it or anything, to share it with other Vexillon users share it in our Discord Server
+Download and modify the files in this folder and paste them in your Vexillon directory. You are not allowed to sell it or anything, to share it with other Vexillon users share it in our Discord Server. We all know how our ui doesn't look very great. Doing this helps alot of people out
 
  ### Liscense
 
