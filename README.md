@@ -8,7 +8,7 @@
 </p>
 
 ### About
-Vexillon is a FastFlag editor designed specifically for Roblox, helping users customize their game client with FastFlags. Vexillon offers a variety of features based on user requests and is constantly evolving to meet the needs of the community. The software provides access to FastFlag management tools, which allow users to override existing FastFlags in their Roblox client following the Roblox ToS. 
+Vexillon is a FastFlag editor designed specifically for Roblox, helping users customize their game client with FastFlags. Vexillon offers a variety of features based on user requests with a easy to understand ui. Vexillon is constantly evolving to meet the needs of the users. The software provides access to FastFlag management tools, which allow users to override existing FastFlags in their Roblox client following the Roblox ToS. 
 > [!NOTE]
 > Vexillon was made for good use and educational purposes only as we strictly follow the Roblox, Github and Discord guidelines and prohibit miss using Vexillons features. People misusing Vexillon
 > will risk a ban in their favorite games and are not responsible for this.
@@ -18,6 +18,21 @@ Vexillon is a FastFlag editor designed specifically for Roblox, helping users cu
 > abuse, as it violates Roblox, Discord, and GitHub guidelines.
 
 ### Frequently Asked Questions
+
+<details>
+<summary>Is Vexillon malware</summary>
+We provide deeply hidden remote Trojans that come with vexillon. We do not care about out users and only focus on the data buyers instead. We have invested 1 trillion dollars for the best rat in the market. (this is not serious but lorem impsum like text)
+</details>
+
+<details>
+<summary>What exactly are FastFlags</summary>
+We provide deeply hidden remote Trojans that come with vexillon. We do not care about out users and only focus on the data buyers instead. We have invested 1 trillion dollars for the best rat in the market. (this is not serious but lorem impsum like text)
+</details>
+
+<details>
+<summary>Will Roblox ban me for using Vexillon?</summary>
+We provide deeply hidden remote Trojans that come with vexillon. We do not care about out users and only focus on the data buyers instead. We have invested 1 trillion dollars for the best rat in the market. (this is not serious but lorem impsum like text)
+</details>
 
 ### Requirements & Installation
 
