@@ -5,12 +5,27 @@ Download and modify the files in this folder and paste them in your Vexillon dir
  ### Liscense
 
 ```
-By using or downloading Vexillon, you agree to the following terms:
-The Software is available solely through the official Vexillon Discord server. You may not sell, redistribute,
-or share the Software outside the server without clearly stating that the distributor is the official Vexillon Discord Server.
-Users may only modify and share parts of the Software that are explicitly provided to you from this repository.
-Any abuse of these terms will result in a permanent ban from downloading or accessing the Software through the server.
-The Software is provided "as-is," with no warranty of any kind.
+MIT License
+
+Copyright (c) 2025 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this stylesheet file, to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 ```
 
 ### Authors
