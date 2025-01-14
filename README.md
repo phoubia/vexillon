@@ -56,6 +56,6 @@ The Software is provided "as-is," with no warranty of any kind.
 
 ### Authors
 
-<img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-310966282D3529E36976BF6B07B1DC90-Png/150/150/AvatarHeadshot/Webp/noFilter" alt="cont" style="border-radius: 50%;" width="50" height="50">
+<img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-310966282D3529E36976BF6B07B1DC90-Png/150/150/AvatarHeadshot/Webp/noFilter" alt="cont" style="border-radius: 50%;" width="65" height="65">
 
 The least you could do to help us with this project is to donate or design a ui stylesheet. To do this head over to the source folder and find the stylesheet.qss file. Qss is similar to Css but it's made for a python ui library. Under the readme.md in the folder you'll find additional information about the stylesheet
