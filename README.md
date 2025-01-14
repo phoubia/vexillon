@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/vexillonthumb.png" height="250" width="500">
   <br>
@@ -56,6 +55,6 @@ The Software is provided "as-is," with no warranty of any kind.
 
 ### Authors
 
-<img src="https://pbs.twimg.com/media/Gg9Hf4ubsAAEtVJ.jpg" alt="Round Image" style="width: 150px; height: 150px; border-radius: 50%; display: block;">
+<img src="https://pbs.twimg.com/media/Gg9Hf4ubsAAEtVJ.jpg" alt="Round Image" style="width: 150px; height: 150px; border-radius: 50%; display: block; margin-right: 20px;">
 
 The least you could do to help us with this project is to donate or design a ui stylesheet. To do this head over to the source folder and find the stylesheet.qss file. Qss is similar to Css but it's made for a python ui library. Under the readme.md in the folder you'll find additional information about the stylesheet
