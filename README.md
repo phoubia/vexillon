@@ -56,5 +56,7 @@ The Software is provided "as-is," with no warranty of any kind.
 ### Authors
 
 <a href="https://github.com/phoubia/vexillon/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=phoubia/vexillon" />
+</a>
 
 The least you could do to help us with this project is to donate or design a ui stylesheet. To do this head over to the source folder and find the stylesheet.qss file. Qss is similar to Css but it's made for a python ui library. Under the readme.md in the folder you'll find additional information about the stylesheet
