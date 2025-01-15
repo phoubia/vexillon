@@ -21,19 +21,19 @@ Vexillon is a FastFlag editor designed specifically for Roblox, helping users cu
 <details>
 <summary>Is Vexillon malware</summary>
 <hr>
-We provide deeply hidden remote Trojans that come with vexillon. We do not care about out users and only focus on the data buyers instead. We have invested 1 trillion dollars for the best rat in the market. (this is not serious but lorem impsum like text)
+...
 </details>
 
 <details>
 <summary>What exactly are FastFlags</summary>
 <hr>
-We provide deeply hidden remote Trojans that come with vexillon. We do not care about out users and only focus on the data buyers instead. We have invested 1 trillion dollars for the best rat in the market. (this is not serious but lorem impsum like text)
+...
 </details>
 
 <details>
 <summary>Will Roblox ban me for using Vexillon?</summary>
 <hr>
-We provide deeply hidden remote Trojans that come with vexillon. We do not care about out users and only focus on the data buyers instead. We have invested 1 trillion dollars for the best rat in the market. (this is not serious but lorem impsum like text)
+...
 </details>
 
 ### Requirements & Installation
