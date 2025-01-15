@@ -24,8 +24,8 @@ Vexillon is a FastFlag editor designed specifically for Roblox, helping users cu
 <details>
 <summary>Is Vexillon malware</summary>
 <hr>
-No, Vexillon is 100% safe and does not contain any kind of malware. All the anti virus solutions flagging our program are powered by an artificial intelligence learning systems which means that there ai isn't educated enough to know that the kind of behavior Vexillon performs shouldn't imidtely be flagged as a virus. Microsoft Defender will show you a popup because we do not have a certificate to know that we're a trusted developer group. They are trying to protect your system from potential malware which is very good. Click read more and run anyway to run Vexillon. Feel free to run it through any other kind of anti virus solution!
-<img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/warning.png" align="right" width="70">
+<img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/warning.png" align="right" width="200">
+No, Vexillon is 100% safe and does not contain any kind of malware. All the anti virus solutions flagging our program are powered by an artificial intelligence learning systems which means that there ai isn't educated enough to know that the kind of behavior Vexillon performs shouldn't imidtely be flagged as a virus. Microsoft Defender will show you a popup similar as the one on the right side because we do not have a certificate to know that we're a trusted developer group. They are trying to protect your system from potential malware which is very good. To bypass this click read more and run anyway to run Vexillon. Feel free to run it through any other kind of anti virus solution!
 </details>
 
 <details>
