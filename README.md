@@ -37,7 +37,7 @@ No, Vexillon is 100% safe and does not contain any kind of malware. All the anti
 <details>
 <summary>Will Roblox ban me for using Vexillon?</summary>
 <hr>
-...
+Practically, no. Roblox can't just ban people for using FastFlags as they're in quite a hard situation at the moment to knowing for what reason people are using fastflags. Just banning anyone using FastFlags would be pretty harsh and unfair because everyone has their own reasons. Games inside of roblox can detect when your character preforms suspicoius activities like having very high jumps or whatever.
 </details>
 
 ### Requirements & Installation
