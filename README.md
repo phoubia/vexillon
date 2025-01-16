@@ -1,4 +1,4 @@
-Alternative Roblox FastFlag editor
+<p align="center">Alternative Roblox FastFlag editor</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/vexillonthumb.png" height="250" width="500">
   <br>
