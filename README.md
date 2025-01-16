@@ -32,7 +32,23 @@ No, Vexillon is 100% safe and does not contain any kind of malware. All the anti
 <details>
 <summary>What exactly are FastFlags</summary>
 <hr>
-...
+FastFlags are a powerful tool created by Roblox engineers to control how the Roblox client works. They allow certain features of the game engine to be adjusted without needing a full update. This makes Roblox flexible and efficient, but using FastFlags incorrectly can lead to problems with the game’s performance and stability.
+
+**What Are FastFlags For?**
+
+FastFlags let Roblox engineers change how certain parts of the client function. For example, they can enable or disable features, change values, or skip certain processes in the game engine. Players can also override these flags manually to adjust how Roblox works on their own device.
+<br>
+**Why Be Careful?**
+
+Using FastFlags without knowing what they do can break the client or cause bugs. Importing large lists of flags is especially risky because it can affect many parts of the game at once. It’s important to only change flags if you fully understand what they do.
+<br>
+**When Are FastFlags Useful?**
+
+FastFlags are often used to improve performance, especially for players with low-end computers. For example, you can disable textures, reduce render distance, or improve network response time. These adjustments can make Roblox run smoother on slower systems.
+<br>
+**Conclusion**
+
+FastFlags are a great tool, but they come with responsibility. If you choose to use them, make sure you understand how they work and avoid making big changes all at once. Used wisely, FastFlags can help you get the best experience from Roblox.
 </details>
 
 <details>
