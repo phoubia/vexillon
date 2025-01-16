@@ -27,34 +27,29 @@ Vexillon is a FastFlag editor designed specifically for Roblox, helping users cu
 <hr>
 <img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/warning.png" align="right" width="200">
 No, Vexillon is 100% safe and does not contain any kind of malware. All the anti virus solutions flagging our program are powered by an artificial intelligence learning systems which means that there ai isn't educated enough to know that the kind of behavior Vexillon performs shouldn't imidtely be flagged as a virus. Microsoft Defender will show you a popup similar as the one on the right side because we do not have a certificate to know that we're a trusted developer group. They are trying to protect your system from potential malware which is very good. To bypass this click read more and run anyway to run Vexillon. Feel free to run it through any other kind of anti virus solution!
+
+<br>
+  
 </details>
 
 <details>
 <summary>What exactly are FastFlags</summary>
 <hr>
-FastFlags are a powerful tool created by Roblox engineers to control how the Roblox client works. They allow certain features of the game engine to be adjusted without needing a full update. This makes Roblox flexible and efficient, but using FastFlags incorrectly can lead to problems with the game’s performance and stability.
-
-**What Are FastFlags For?**
-
-FastFlags let Roblox engineers change how certain parts of the client function. For example, they can enable or disable features, change values, or skip certain processes in the game engine. Players can also override these flags manually to adjust how Roblox works on their own device.
+<img src="https://github.com/phoubia/vexillon/blob/main/pics/vexillonlowquality.png" align="right" width="385">
+FastFlags are a powerful tool created by Roblox engineers to control how the Roblox client works. They allow certain features of the game engine to be adjusted without needing a full update. This makes Roblox flexible and efficient, but using FastFlags incorrectly can lead to problems with the game’s performance and stability. FastFlags let Roblox engineers change how certain parts of the client function. For example, they can enable or disable features, change values, or skip certain processes in the game engine. Players can also override these flags manually to adjust how Roblox works on their own device. Using FastFlags without knowing what they do can break the client or cause bugs. Importing large lists of flags is especially risky because it can affect many parts of the game at once. It’s important to only change flags if you fully understand what they do.
+FastFlags are often used to improve performance, especially for players with low-end computers. For example, you can disable textures, reduce render distance, or improve network response time. These adjustments can make Roblox run smoother on slower systems. The picture on the right demonstrates these FastFlags. FastFlags are commonly found in <a href="https://github.com/MaximumADHD/Roblox-Client-Tracker/blob/roblox/FVariables.txt">Fvariables.txt</a> from a useful repository made by MaximumADHD. FastFlags are a great tool, but they come with responsibility. FastFlags altering physics might get you banned in your favorite games. If you choose to use them, make sure you understand how they work and avoid making big changes all at once. We are not responsible for bans or whatever so don't make a ticket blaming us.
+ 
 <br>
-**Why Be Careful?**
 
-Using FastFlags without knowing what they do can break the client or cause bugs. Importing large lists of flags is especially risky because it can affect many parts of the game at once. It’s important to only change flags if you fully understand what they do.
-<br>
-**When Are FastFlags Useful?**
-
-FastFlags are often used to improve performance, especially for players with low-end computers. For example, you can disable textures, reduce render distance, or improve network response time. These adjustments can make Roblox run smoother on slower systems.
-<br>
-**Conclusion**
-
-FastFlags are a great tool, but they come with responsibility. If you choose to use them, make sure you understand how they work and avoid making big changes all at once. Used wisely, FastFlags can help you get the best experience from Roblox.
 </details>
 
 <details>
 <summary>Will Roblox ban me for using Vexillon?</summary>
 <hr>
 Practically, no. Roblox can't just ban people for using FastFlags as they're in quite a hard situation at the moment to knowing for what reason people are using fastflags. Just banning anyone using FastFlags would be pretty harsh and unfair because everyone has their own reasons. Games inside of roblox can detect when your character preforms suspicoius activities like having very high jumps or whatever.
+
+<br>
+
 </details>
 
 ### Requirements & Installation
