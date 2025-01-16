@@ -8,7 +8,7 @@
 </p>
 
 # About
-<img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/vexillondemonstration.PNG" align="right" width="390">
+<img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/vexillondemonstration.PNG" align="right" width="426">
 Vexillon is a powerful FastFlag editor designed specifically for Roblox, enabling users to customize their game client using FastFlags. With an intuitive and user-friendly interface, Vexillon offers a wide range of features tailored to user requests and is continuously updated to meet the evolving needs of its community. The software provides robust tools for managing and overriding existing FastFlags in the Roblox client while adhering to Roblox's Terms of Service. To stay informed about updates, new releases, and popular FastFlag configurations, users are encouraged to join the official Discord server, where valuable resources and support are readily available. Vexillon is not free from errors and problems so joining the server also gives you the ability to report them but also share suggestions to improve Vexillon as its still in its early stages.
 <p>‎ </p>
 
