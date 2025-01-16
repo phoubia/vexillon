@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/language-python-blue">
 </p>
 
-### About
+# About
 <img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/vexillondemonstration.PNG" align="right" width="385">
 Vexillon is a FastFlag editor designed specifically for Roblox, helping users customize their game client with FastFlags. Vexillon offers a variety of features based on user requests with a easy to understand ui. Vexillon is constantly evolving to meet the needs of the users. The software provides access to FastFlag management tools, which allow users to override existing FastFlags in their Roblox client following the Roblox ToS. 
 <p>‎ </p>
@@ -20,7 +20,7 @@ Vexillon is a FastFlag editor designed specifically for Roblox, helping users cu
 > It is important to note that misuse of Vexillon’s features can put your account at risk, and we strongly discourage any
 > abuse, as it violates Roblox, Discord, and GitHub guidelines.
 
-### Frequently Asked Questions
+# Frequently Asked Questions
 
 <details>
 <summary>Is Vexillon malware</summary>
@@ -52,13 +52,13 @@ Practically, no. Roblox can't just ban people for using FastFlags as they're in 
 
 </details>
 
-### Requirements & Installation
+# Requirements & Installation
 
 Vexillon will install and run on almost every system. It's core won't function without Roblox so no reason to install it on Windows 8.1 64 bit or lower.
 
 To install and start using Vexillon go to the <a href="https://discord.gg/2FmzCe7NeG">Discord server</a> and hop over to the releases channel. If you can't seem to locate it find a reaction role in any channel most of the times the news channel. To download the latest version check the pinned message and click on the Mediafire link.
 
-### Liscense
+# Liscense
 
 ```
 By using or downloading Vexillon, you agree to the following terms:
@@ -69,7 +69,7 @@ Any abuse of these terms will result in a permanent ban from downloading or acce
 The Software is provided "as-is," with no warranty of any kind.
 ```
 
-### Authors
+# Authors
 
 <a href="https://github.com/phoubia/vexillon/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=phoubia/vexillon" />
