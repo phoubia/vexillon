@@ -1,4 +1,6 @@
 # Contribute
+<p align="center">making your own stylesheet for vexillon does not currently work, it will in the next version.</p>
+<p align="center">you will also be able to change settings like window size by doing something similar as described in here.</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/liscense-MIT-orange">
@@ -6,7 +8,7 @@
   <img src="https://img.shields.io/badge/language-qss-blue">
 </p>
 
-Download and modify the stylesheet file, click on this link to know how to work with qss which is very similar as css. Put the stylesheet file in the same directory as the vexillon.exe executable. Follow the rules in the liscense below.
+Download and modify the stylesheet file, search for tutorials to know how qss works. By examining the current stylesheet it'll be very easy to understand if you're already familiar with css. which is very similar as css. Put the stylesheet file in the same directory as the vexillon.exe executable. Follow the rules in the liscense below.
 <br>
 You are helping us and the community out by making a stylesheet and sharing it with the community in the Discord server. We both know that the default layout isn't the best layout out there.
 <br>
