@@ -76,7 +76,7 @@ Any abuse of these terms will result in a permanent ban from downloading or acce
 The Software is provided "as-is," with no warranty of any kind.
 ```
 
-# Authors
+# Contributers
 
 <img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/phobiacontributer.png" alt="contributor" style="width:80px; height:80px; margin-right: 40px;"> <img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/blakecontributer.png" alt="contributor1" style="width:80px; height:80px; margin-left: 40px;">
 
