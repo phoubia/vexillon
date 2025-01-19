@@ -77,6 +77,8 @@ The Software is provided "as-is," with no warranty of any kind.
 ```
 
 # Contributors
+Vexillon wouldn't be Vexillon without these people
+<br>
 
 <img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/222contrib.png" alt="contributor3" style="width:80px; height:80px; margin-left: 40px;"> <img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/phobiacontributer.png" alt="contributor" style="width:80px; height:80px; margin-right: 40px;"> <img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/blakecontributer.png" alt="contributor1" style="width:80px; height:80px; margin-left: 40px;"> <img src="https://raw.githubusercontent.com/phoubia/vexillon/refs/heads/main/pics/noobcontributer.png" alt="contributor2" style="width:80px; height:80px; margin-left: 40px;">
 
