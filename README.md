@@ -61,7 +61,7 @@ Practically, no. Roblox can't just ban people for using FastFlags as they're in 
 
 # Requirements & Installation
 
-Vexillon will install and run on almost every system. It's core won't function without Roblox so no reason to install it on Windows 8.1 64 bit or lower.
+Vexillon will install and run on almost every system. It's core won't function without Roblox so no reason to install it on anything lower than Windows 8.1 64 bit or lower.
 
 To install and start using Vexillon go to the <a href="https://discord.gg/2FmzCe7NeG">Discord server</a> and hop over to the releases channel. If you can't seem to locate it find a reaction role in any channel most of the times the news channel. To download the latest version check the pinned message and click on the Mediafire link.
 
