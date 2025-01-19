@@ -81,5 +81,3 @@ The Software is provided "as-is," with no warranty of any kind.
 
 
 The least you could do to help us with this project is to donate or design a ui stylesheet. To do this head over to the source folder and find the stylesheet.qss file. Qss is similar to Css but it's made for a python ui library. Under the readme.md in the folder you'll find additional information about the stylesheet.
-
-We made a lot of commits earlier due to a mistake. Instead of previewing changes, we clicked commit directly to see the effect on even the smallest adjustments. This caused issues with tracking the progress of the repository. To make important changes more noticeable, we will ensure that the commit names are more recognizable.
