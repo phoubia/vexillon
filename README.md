@@ -56,7 +56,8 @@ Practically, no. Roblox can't just ban people for using FastFlags as they're in 
 
 <details>
 <summary>How to use Vexillon</summary>
-...
+<hr>
+Using Vexillon is very easy. If you have the right JSON data, it's just a matter of pasting it into the textbox and then clicking submit. To remove the existing data imported to Roblox, simply click "Disband" and then click "Restart" for the changes to take effect. To save data so that you can access it more easily the next time you start up Vexillon, click "Save" and give it a name.
 </details>
 
 # Requirements & Installation
